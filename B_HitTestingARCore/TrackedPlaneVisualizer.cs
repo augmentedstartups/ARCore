@@ -205,7 +205,7 @@ namespace GoogleARCore.HelloAR
             m_Mesh.SetVertices(m_MeshVertices);
             m_Mesh.SetIndices(m_MeshIndices.ToArray(), MeshTopology.Triangles, 0);
             m_Mesh.SetColors(m_MeshColors);
-			meshCollider.sharedMesh = m_Mesh;
+			meshCollider.sharedMesh = m_Mesh;  //RK
         }
 
         private bool _AreVerticesListsEqual(List<Vector3> firstList, List<Vector3> secondList)
