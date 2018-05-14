@@ -1,3 +1,4 @@
+# ARCore Changelog - ARCore V1.2 Update 
 Assets for Point Cloud and Plane Detection tutorial using ARCore 1.2.
 
 ChangeLog - TrackedPlane Prefab has now been renamed to DetectedPlaneVisualizer
