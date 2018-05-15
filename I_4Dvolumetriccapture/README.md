@@ -1,4 +1,4 @@
-# 4D Views download location
+# 4D Views Download Location
 
 1. Make Sure to download Samples and 4DViews Unity Plugin from 
 
