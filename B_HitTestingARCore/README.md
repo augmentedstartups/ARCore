@@ -8,4 +8,4 @@ InstantiatObjectOnTouch.cs Code Changed => GoogleARCore.HelloAR; to GoogleARCore
 
 If you are using ARCore 1.1 or 1.0, You will find this at:
 GoogleARCore>>Examples>>HelloAR>>Prefabs>>TrackedPlaneVisualizer
-Use the PlaneVisualizationManager.cs from the ARCore1.0_1.1 Folder
+Use the PlaneVisualizationManager.cs from the ARCore1.0_1.1 Folder.
