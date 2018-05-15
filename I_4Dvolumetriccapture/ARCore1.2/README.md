@@ -1,4 +1,4 @@
-# 4D Hologram Import Instructions
+# 4D Hologram Import Instructions for ARCore 1.2
 
 You have two options
 
