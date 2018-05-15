@@ -1,3 +1,6 @@
-Download your Portal Prefabs Here:
+# Download your Portal Prefabs Here:
 
-https://www.dropbox.com/s/jist1bhhtb08dpg/ArCoreCoursePortal.unitypackage?dl=0
+https://www.dropbox.com/sh/1zoga7gw6g6ux4p/AACS9oA-PrzUEgYc7kXLw_0Wa?dl=0
+
+- Updated for ARCore 1.2 
+- Make sure to import ARCore 1.2 first before the project files.
